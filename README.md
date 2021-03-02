@@ -5,7 +5,7 @@
 - 💻 Les systèmes d'exploitation utilisés sont Ubuntu (🐧) / Windows 10
 
 ## ⚙️ Technologie / Outils
-- Système d'exploitation: ![Proxmox 6](/img/Proxmox_x32.png) ![Ubuntu 18.04/20.04](/img/Ubuntu_x32.png)
+- Système d'exploitation: <img align="center" src="/img/Proxmox_x32.png"></img> <img align="center" src="img/Ubuntu_x32.png"></img>
 
 ## 🔗 Les réseaux
 <p align="left">
