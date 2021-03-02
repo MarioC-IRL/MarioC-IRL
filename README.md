@@ -4,6 +4,9 @@
 - 🤓 Je travaille pour des projets personnels ou en groupe.
 - 💻 Les systèmes d'exploitation utilisés sont Ubuntu (🐧) / Windows 10
 
+## ⚙️ Technologie / Outils
+
+
 ## 🔗 Les réseaux
 <p align="left">
   <a href="https://www.linkedin.com/in/mario-cnockaert-08a33a1a4/" target="blank">
