@@ -1,7 +1,7 @@
 ## 👨 À mon sujet
 
 - 📝 Je m'appelle Mario Cnockaert (19 ans).
-- 📫 Localisé dans la vile de Charleroi (Belgique)
+- 📫 Localisé dans la ville de Charleroi (Belgique)
 - 🤓 Je travaille pour des projets personnels ou en groupe.
 - 💻 Les systèmes d'exploitation utilisés sont Ubuntu (🐧) / Windows 10
 
