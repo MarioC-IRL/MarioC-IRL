@@ -1,7 +1,8 @@
 ## 👨 À mon sujet
 
 - 📫 Localisé dans la vile de Charleroi (Belgique)
-- 💻 Je travaille pour des projets personnels ou en groupe.
+- 🖥️ Je travaille pour des projets personnels ou en groupe.
+- 💻 Les systèmes d'exploitation utilisés sont Ubuntu (🐧) / Windows 10
 
 ## 🔗 Retrouvez-moi sur les réseaux
 <p align="left">
