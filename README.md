@@ -5,8 +5,7 @@
 - 💻 Les systèmes d'exploitation utilisés sont Ubuntu (🐧) / Windows 10
 
 ## 🔗 Les réseaux
-<p align="center">
-  🔗 Les réseaux 🔗
+<p align="left">
   <a href="https://www.linkedin.com/in/mario-cnockaert-08a33a1a4/" target="blank">
     <img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Linkedin_x24.png"></img>
   </a>
