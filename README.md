@@ -26,3 +26,6 @@
     <img align="center" src="/img/Skype_x24.png"></img>
   </a>
 </p>
+
+<p align="center">
+   Vous n'aimez pas les frites 🥺 ? Nous ne serons pas amis !!!
