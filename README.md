@@ -11,7 +11,13 @@
   <a href="https://twitter.com/MarioC_IRL" target="blank">
      <img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Twitter_x24.png"></img>
   </a>
+  <a href="https://www.instagram.com/mario_cnockaert/" target="blank">
+    <img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Instagram_x24.png"></img>
+  </a>
+  <a href="https://t.me/MCnockaert" target="blank">
+     <img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Telegram_x24.png"></img>
+  </a>
+  <a href="https://join.skype.com/invite/nEaHe5Vka9Jj" target="blank">
+    <img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Skype_x24.png"></img>
+  </a>
 </p>
-<img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Instagram_x24.png"></img>
-<img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Telegram_x24.png"></img>
-<img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Skype_x24.png"></img>
