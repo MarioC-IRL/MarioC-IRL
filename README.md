@@ -6,6 +6,7 @@
 
 ## ⚙️ Technologie / Outils
 - Système d'exploitation: <img align="center" src="/img/Proxmox_x32.png"></img> <img align="center" src="img/Ubuntu_x32.png"></img>
+- Client Mysql / Éditeur de code: 
 
 ## 🔗 Les réseaux
 <p align="left">
