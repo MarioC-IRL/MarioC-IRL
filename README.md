@@ -5,7 +5,7 @@
 - 💻 Les systèmes d'exploitation utilisés sont Ubuntu (🐧) / Windows 10
 
 ## ⚙️ Technologie / Outils
-- Système d'exploitation: ![Proxmox 6]<img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Proxmox_x32.png"></img>[Ubuntu 18.04/20.04]<img align="center" src="https://github.com/MarioC-IRL/MarioC-IRL/blob/main/img/Ubuntu_x32.png"></img>
+- Système d'exploitation: ![Proxmox 6](/img/Proxmox_x32.png) ![Ubuntu 18.04/20.04](/img/Ubuntu_x32.png)
 
 ## 🔗 Les réseaux
 <p align="left">
