@@ -3,7 +3,7 @@
 - 📝 Je m'appelle Mario Cnockaert (19 ans).
 - 📫 Localisé dans la ville de Charleroi (Belgique)
 - 🤓 Je travaille pour des projets personnels ou en groupe.
-- 💻 Les systèmes d'exploitation utilisés sont Ubuntu (🐧) / Windows 10
+- 💻 Les systèmes d'exploitation utilisés sont Ubuntu (<a href="https://ubuntu.com/download" target="_blank"><img align="center" src="img/Ubuntu_x32.png"></img></a>) / Windows 10
 
 ## ⚙️ Technologie / Outils
 - Virtualisation: <a href="https://www.proxmox.com/en/" target="_blank"><img align="center" src="/img/Proxmox_x32.png"></img></a>
