@@ -6,7 +6,7 @@
 - 💻 Les systèmes d'exploitation utilisés sont Ubuntu (🐧) / Windows 10
 
 ## ⚙️ Technologie / Outils
-- Système d'exploitation: <a href="https://www.proxmox.com/en/" target="_blank"><img align="center" src="/img/Proxmox_x32.png"></img></a> <a href="https://ubuntu.com/download" target="_blank"><img align="center" src="img/Ubuntu_x32.png"></img></a>
+- Virtualisation: <a href="https://www.proxmox.com/en/" target="_blank"><img align="center" src="/img/Proxmox_x32.png"></img></a>
 - Client Mysql / Éditeur de code: <a href="https://dbeaver.io/" target="_blank"><img align="center" src="/img/DBeaver_x32.png"></img></a> <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="img/VSCode_x32.png"></img></a>
 
 ## 🔗 Les réseaux sociaux
