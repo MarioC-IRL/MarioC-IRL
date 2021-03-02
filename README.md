@@ -6,7 +6,7 @@
 
 ## ⚙️ Technologie / Outils
 - Système d'exploitation: <img align="center" src="/img/Proxmox_x32.png"></img> <img align="center" src="img/Ubuntu_x32.png"></img>
-- Client Mysql / Éditeur de code: <img align="center" src="/img/DBeaver_x32.png"></img> <img align="center" src="img/VSCode_x32.png"></img>
+- Client Mysql / Éditeur de code: <a href="https://dbeaver.io/" target="blank"><img align="center" src="/img/DBeaver_x32.png"></img></a> <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="img/VSCode_x32.png"></img></a>
 
 ## 🔗 Les réseaux sociaux
 <p align="left">
