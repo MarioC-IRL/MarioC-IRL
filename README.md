@@ -8,7 +8,7 @@
 - Système d'exploitation: <img align="center" src="/img/Proxmox_x32.png"></img> <img align="center" src="img/Ubuntu_x32.png"></img>
 - Client Mysql / Éditeur de code: <img align="center" src="/img/DBeaver_x32.png"></img> <img align="center" src="img/VSCode_x32.png"></img>
 
-## 🔗 Les réseaux
+## 🔗 Les réseaux sociaux
 <p align="left">
   <a href="https://www.linkedin.com/in/mario-cnockaert-08a33a1a4/" target="blank">
     <img align="center" src="/img/Linkedin_x24.png"></img>
