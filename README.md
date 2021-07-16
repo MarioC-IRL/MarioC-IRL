@@ -28,7 +28,6 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://ipv6.he.net/certification/create_badge.php?pass_name=MCnockaert&amp;badge=1" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for MCnockaert"></img>
 <p align="center"><img align="center" src="https://ipv6.he.net/certification/create_badge.php?pass_name=MCnockaert&amp;badge=2" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for MCnockaert"></img>
-<p align="center"><img align="center" src="https://ipv6.he.net/certification/create_badge.php?pass_name=MCnockaert&amp;badge=3" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for MCnockaert"></img>
+
 <p align="center">Vous n'aimez pas les frites 🥺 ? Nous ne serons pas amis !!!</p>
